@@ -1,0 +1,6 @@
+1、windows安装python3.7.5
+2、python安装requests模块
+3、准备商品列表txt文件改名成read.txt,放入程序文件夹路径
+4、将命令行路径打开到程序文件夹路径
+5、使用python3.7.5运行文件paWeb.py
+6、执行结束得到data.txt
